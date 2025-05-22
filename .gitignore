@@ -174,4 +174,5 @@ cython_debug/
 .pypirc
 
 # model-data
-model-data/
+/model-data/*
+!/model-data/.gitkeep
