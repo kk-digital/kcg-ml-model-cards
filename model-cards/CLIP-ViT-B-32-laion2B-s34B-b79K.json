@@ -1,1 +1,93 @@
-{"model":{"type":"CLIP","name":"CLIP-ViT-B-32-laion2B-s34B-b79K","date":"2025-05-22"},"files":[{"hash":"6KqecWR58I/DmgCGleIiC83EGHgfeXMiEiohTW/HPag=","path":"C:/Users/Admin/RiderProjects/kcg-ml-model-cards/model-data/CLIP-ViT-B-32-laion2B-s34B-b79K/.gitattributes","size":1574,"creation_time":638835378257302820},{"hash":"Qj8BPw7NacnkfC8h4DgHGaGcoa3O22Unp9eeh0TlBCk=","path":"C:/Users/Admin/RiderProjects/kcg-ml-model-cards/model-data/CLIP-ViT-B-32-laion2B-s34B-b79K/config.json","size":4355,"creation_time":638835378274558083},{"hash":"KZMxLn6WNdM33ekDqRng5rmS+AlHvmN2WUvkGJjOaXA=","path":"C:/Users/Admin/RiderProjects/kcg-ml-model-cards/model-data/CLIP-ViT-B-32-laion2B-s34B-b79K/merges.txt","size":524618,"creation_time":638835378296137815},{"hash":"TpIdHCTwovPvLG+1zVSM932+6LnyJEKYOGfrMtrVZP8=","path":"C:/Users/Admin/RiderProjects/kcg-ml-model-cards/model-data/CLIP-ViT-B-32-laion2B-s34B-b79K/model.safetensors","size":605157884,"creation_time":638835379035338299},{"hash":"/LhjHOBINO//zMHj7Wwg0HQ/bFbNHbjhe7aGwnc9SlM=","path":"C:/Users/Admin/RiderProjects/kcg-ml-model-cards/model-data/CLIP-ViT-B-32-laion2B-s34B-b79K/open_clip_config.json","size":604,"creation_time":638835379044205608},{"hash":"eyWGUO60dgk5xJuCVT4ppYY8pkOsbKASoFaf13R6dRs=","path":"C:/Users/Admin/RiderProjects/kcg-ml-model-cards/model-data/CLIP-ViT-B-32-laion2B-s34B-b79K/open_clip_model.safetensors","size":605143316,"creation_time":638835379771082781},{"hash":"tETkrF6QpI0+k6wvq9ZRSm+O9zsjFRtfymMAFseBO2E=","path":"C:/Users/Admin/RiderProjects/kcg-ml-model-cards/model-data/CLIP-ViT-B-32-laion2B-s34B-b79K/open_clip_pytorch_model.bin","size":605219813,"creation_time":638835380538241020},{"hash":"L86HXzOBiq25LwJk3qKr9Q1VtKWRB6EJOSCf2Bjl4vQ=","path":"C:/Users/Admin/RiderProjects/kcg-ml-model-cards/model-data/CLIP-ViT-B-32-laion2B-s34B-b79K/preprocessor_config.json","size":316,"creation_time":638835380546961154},{"hash":"tojTaw6SaMvJuWK2u1GK77ThjMsKgbUSNNvhLDA7GbU=","path":"C:/Users/Admin/RiderProjects/kcg-ml-model-cards/model-data/CLIP-ViT-B-32-laion2B-s34B-b79K/pytorch_model.bin","size":605239073,"creation_time":638835381205445637},{"hash":"0127PGWAC+/FBi5Q717y9odDXbtae4+NllLCCMbZI/o=","path":"C:/Users/Admin/RiderProjects/kcg-ml-model-cards/model-data/CLIP-ViT-B-32-laion2B-s34B-b79K/README.md","size":7464,"creation_time":638835378266042506},{"hash":"yaMr0Q8ROxi1+aALg44e6J26hOFNhY7EAANNcp8RSBs=","path":"C:/Users/Admin/RiderProjects/kcg-ml-model-cards/model-data/CLIP-ViT-B-32-laion2B-s34B-b79K/special_tokens_map.json","size":389,"creation_time":638835381214378096},{"hash":"qbxMGJlHgta3xbwoF7kDOG+0nBUgZTRPl1uZH/cYtOs=","path":"C:/Users/Admin/RiderProjects/kcg-ml-model-cards/model-data/CLIP-ViT-B-32-laion2B-s34B-b79K/tokenizer.json","size":2224041,"creation_time":638835381241222693},{"hash":"qmnMVpD6+ILSOXPMXT9GyFX7T9EP+lNy9R8aoegw04M=","path":"C:/Users/Admin/RiderProjects/kcg-ml-model-cards/model-data/CLIP-ViT-B-32-laion2B-s34B-b79K/tokenizer_config.json","size":904,"creation_time":638835381254396222},{"hash":"8rJOQncgfAKeP13Ns12XVY9BsaE6MyxE3G8mwiD8WQ4=","path":"C:/Users/Admin/RiderProjects/kcg-ml-model-cards/model-data/CLIP-ViT-B-32-laion2B-s34B-b79K/vocab.json","size":862328,"creation_time":638835381277088740}]}
+{
+    "model": {
+        "type": "CLIP",
+        "name": "CLIP-ViT-B-32-laion2B-s34B-b79K",
+        "date": "2025-05-22"
+    },
+    "files": [
+        {
+            "hash": "6KqecWR58I/DmgCGleIiC83EGHgfeXMiEiohTW/HPag=",
+            "path": "C:/Users/Admin/RiderProjects/kcg-ml-model-cards/model-data/CLIP-ViT-B-32-laion2B-s34B-b79K/.gitattributes",
+            "size": 1574,
+            "creation_time": 638835378257302820
+        },
+        {
+            "hash": "Qj8BPw7NacnkfC8h4DgHGaGcoa3O22Unp9eeh0TlBCk=",
+            "path": "C:/Users/Admin/RiderProjects/kcg-ml-model-cards/model-data/CLIP-ViT-B-32-laion2B-s34B-b79K/config.json",
+            "size": 4355,
+            "creation_time": 638835378274558083
+        },
+        {
+            "hash": "KZMxLn6WNdM33ekDqRng5rmS+AlHvmN2WUvkGJjOaXA=",
+            "path": "C:/Users/Admin/RiderProjects/kcg-ml-model-cards/model-data/CLIP-ViT-B-32-laion2B-s34B-b79K/merges.txt",
+            "size": 524618,
+            "creation_time": 638835378296137815
+        },
+        {
+            "hash": "TpIdHCTwovPvLG+1zVSM932+6LnyJEKYOGfrMtrVZP8=",
+            "path": "C:/Users/Admin/RiderProjects/kcg-ml-model-cards/model-data/CLIP-ViT-B-32-laion2B-s34B-b79K/model.safetensors",
+            "size": 605157884,
+            "creation_time": 638835379035338299
+        },
+        {
+            "hash": "/LhjHOBINO//zMHj7Wwg0HQ/bFbNHbjhe7aGwnc9SlM=",
+            "path": "C:/Users/Admin/RiderProjects/kcg-ml-model-cards/model-data/CLIP-ViT-B-32-laion2B-s34B-b79K/open_clip_config.json",
+            "size": 604,
+            "creation_time": 638835379044205608
+        },
+        {
+            "hash": "eyWGUO60dgk5xJuCVT4ppYY8pkOsbKASoFaf13R6dRs=",
+            "path": "C:/Users/Admin/RiderProjects/kcg-ml-model-cards/model-data/CLIP-ViT-B-32-laion2B-s34B-b79K/open_clip_model.safetensors",
+            "size": 605143316,
+            "creation_time": 638835379771082781
+        },
+        {
+            "hash": "tETkrF6QpI0+k6wvq9ZRSm+O9zsjFRtfymMAFseBO2E=",
+            "path": "C:/Users/Admin/RiderProjects/kcg-ml-model-cards/model-data/CLIP-ViT-B-32-laion2B-s34B-b79K/open_clip_pytorch_model.bin",
+            "size": 605219813,
+            "creation_time": 638835380538241020
+        },
+        {
+            "hash": "L86HXzOBiq25LwJk3qKr9Q1VtKWRB6EJOSCf2Bjl4vQ=",
+            "path": "C:/Users/Admin/RiderProjects/kcg-ml-model-cards/model-data/CLIP-ViT-B-32-laion2B-s34B-b79K/preprocessor_config.json",
+            "size": 316,
+            "creation_time": 638835380546961154
+        },
+        {
+            "hash": "tojTaw6SaMvJuWK2u1GK77ThjMsKgbUSNNvhLDA7GbU=",
+            "path": "C:/Users/Admin/RiderProjects/kcg-ml-model-cards/model-data/CLIP-ViT-B-32-laion2B-s34B-b79K/pytorch_model.bin",
+            "size": 605239073,
+            "creation_time": 638835381205445637
+        },
+        {
+            "hash": "0127PGWAC+/FBi5Q717y9odDXbtae4+NllLCCMbZI/o=",
+            "path": "C:/Users/Admin/RiderProjects/kcg-ml-model-cards/model-data/CLIP-ViT-B-32-laion2B-s34B-b79K/README.md",
+            "size": 7464,
+            "creation_time": 638835378266042506
+        },
+        {
+            "hash": "yaMr0Q8ROxi1+aALg44e6J26hOFNhY7EAANNcp8RSBs=",
+            "path": "C:/Users/Admin/RiderProjects/kcg-ml-model-cards/model-data/CLIP-ViT-B-32-laion2B-s34B-b79K/special_tokens_map.json",
+            "size": 389,
+            "creation_time": 638835381214378096
+        },
+        {
+            "hash": "qbxMGJlHgta3xbwoF7kDOG+0nBUgZTRPl1uZH/cYtOs=",
+            "path": "C:/Users/Admin/RiderProjects/kcg-ml-model-cards/model-data/CLIP-ViT-B-32-laion2B-s34B-b79K/tokenizer.json",
+            "size": 2224041,
+            "creation_time": 638835381241222693
+        },
+        {
+            "hash": "qmnMVpD6+ILSOXPMXT9GyFX7T9EP+lNy9R8aoegw04M=",
+            "path": "C:/Users/Admin/RiderProjects/kcg-ml-model-cards/model-data/CLIP-ViT-B-32-laion2B-s34B-b79K/tokenizer_config.json",
+            "size": 904,
+            "creation_time": 638835381254396222
+        },
+        {
+            "hash": "8rJOQncgfAKeP13Ns12XVY9BsaE6MyxE3G8mwiD8WQ4=",
+            "path": "C:/Users/Admin/RiderProjects/kcg-ml-model-cards/model-data/CLIP-ViT-B-32-laion2B-s34B-b79K/vocab.json",
+            "size": 862328,
+            "creation_time": 638835381277088740
+        }
+    ]
+}
