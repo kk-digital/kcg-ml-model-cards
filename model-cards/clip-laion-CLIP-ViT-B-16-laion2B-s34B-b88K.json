@@ -1,0 +1,68 @@
+{
+  "model_id": "683D-97BB-590D-FB8B",
+  "model_name": "CLIP-ViT-B-16-laion2B-s34B-b88K",
+  "model_type": "clip-laion",
+  "model_size": "1145.0471 MB",
+  "model_file_list": [
+    {
+      "minio_file_path": "models/clip-laion-CLIP-ViT-B-16-laion2B-s34B-b88K/tokenizer_config.json",
+      "file_path": "../kcg-ml-model-cards/model-data/clip-laion-CLIP-ViT-B-16-laion2B-s34B-b88K/tokenizer_config.json",
+      "hash": "56405e3821d0e7b2c17878bc16c44a7dd97a23d25ce5d46a3fced95ed45de9af",
+      "size": "0.0008 MB"
+    },
+    {
+      "minio_file_path": "models/clip-laion-CLIP-ViT-B-16-laion2B-s34B-b88K/merges.txt",
+      "file_path": "../kcg-ml-model-cards/model-data/clip-laion-CLIP-ViT-B-16-laion2B-s34B-b88K/merges.txt",
+      "hash": "12d2b195d35af1bd6811e1aadce87634d574e89d269577f86faab632b6be8c62",
+      "size": "0.5004 MB"
+    },
+    {
+      "minio_file_path": "models/clip-laion-CLIP-ViT-B-16-laion2B-s34B-b88K/README.md",
+      "file_path": "../kcg-ml-model-cards/model-data/clip-laion-CLIP-ViT-B-16-laion2B-s34B-b88K/README.md",
+      "hash": "2fa9cf184f20a031228689cb028e21049fbaa6f8d42ff15be058c55030d20b05",
+      "size": "0.0074 MB"
+    },
+    {
+      "minio_file_path": "models/clip-laion-CLIP-ViT-B-16-laion2B-s34B-b88K/tokenizer.json",
+      "file_path": "../kcg-ml-model-cards/model-data/clip-laion-CLIP-ViT-B-16-laion2B-s34B-b88K/tokenizer.json",
+      "hash": "76982348319a3a48ca89e171a92e411f4c7193994971ad38a962dbe156e2f04a",
+      "size": "2.1210 MB"
+    },
+    {
+      "minio_file_path": "models/clip-laion-CLIP-ViT-B-16-laion2B-s34B-b88K/.gitattributes",
+      "file_path": "../kcg-ml-model-cards/model-data/clip-laion-CLIP-ViT-B-16-laion2B-s34B-b88K/.gitattributes",
+      "hash": "c4f3ae87d0692cd010b01e411ec36aa9fac0b541d4605301be9511fe1ece04b8",
+      "size": "0.0014 MB"
+    },
+    {
+      "minio_file_path": "models/clip-laion-CLIP-ViT-B-16-laion2B-s34B-b88K/special_tokens_map.json",
+      "file_path": "../kcg-ml-model-cards/model-data/clip-laion-CLIP-ViT-B-16-laion2B-s34B-b88K/special_tokens_map.json",
+      "hash": "7a78685b1575bced5b1ea33d53007eb9893bb4366f0cde4e521d373d841ba426",
+      "size": "0.0005 MB"
+    },
+    {
+      "minio_file_path": "models/clip-laion-CLIP-ViT-B-16-laion2B-s34B-b88K/open_clip_config.json",
+      "file_path": "../kcg-ml-model-cards/model-data/clip-laion-CLIP-ViT-B-16-laion2B-s34B-b88K/open_clip_config.json",
+      "hash": "3216db040addc105b00d25c08f4e08b8d5001b19499f5798c518752f9767f18a",
+      "size": "0.0004 MB"
+    },
+    {
+      "minio_file_path": "models/clip-laion-CLIP-ViT-B-16-laion2B-s34B-b88K/open_clip_model.safetensors",
+      "file_path": "../kcg-ml-model-cards/model-data/clip-laion-CLIP-ViT-B-16-laion2B-s34B-b88K/open_clip_model.safetensors",
+      "hash": "5992527fd841d1236918e9354118dff07f2a4fb938762039a9bbd45f8f2e011f",
+      "size": "570.7903 MB"
+    },
+    {
+      "minio_file_path": "models/clip-laion-CLIP-ViT-B-16-laion2B-s34B-b88K/vocab.json",
+      "file_path": "../kcg-ml-model-cards/model-data/clip-laion-CLIP-ViT-B-16-laion2B-s34B-b88K/vocab.json",
+      "hash": "f2b24e4277207c029e3f5dcdb35d97558f41b1a13a332c44dc6f26c220fc590e",
+      "size": "0.8224 MB"
+    },
+    {
+      "minio_file_path": "models/clip-laion-CLIP-ViT-B-16-laion2B-s34B-b88K/open_clip_pytorch_model.bin",
+      "file_path": "../kcg-ml-model-cards/model-data/clip-laion-CLIP-ViT-B-16-laion2B-s34B-b88K/open_clip_pytorch_model.bin",
+      "hash": "747a755308275439e53a02d4a89f976e93f1669ea4f9487f75dbca10f3bef0d7",
+      "size": "570.8026 MB"
+    }
+  ]
+}

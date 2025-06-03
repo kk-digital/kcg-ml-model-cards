@@ -1,0 +1,86 @@
+{
+  "model_id": "683D-EC21-7E04-DAED",
+  "model_name": "clip-vit-large-patch14",
+  "model_type": "clip-openai",
+  "model_size": "6529.3672 MB",
+  "model_file_list": [
+    {
+      "minio_file_path": "models/clip-openai-clip-vit-large-patch14/config.json",
+      "file_path": "../kcg-ml-model-cards/model-data/clip-openai-clip-vit-large-patch14/config.json",
+      "hash": "6b6da4dea24e0d4d37babe4acb81310e558c4c1df72bbd74ecea262859219b75",
+      "size": "0.0043 MB"
+    },
+    {
+      "minio_file_path": "models/clip-openai-clip-vit-large-patch14/model.safetensors",
+      "file_path": "../kcg-ml-model-cards/model-data/clip-openai-clip-vit-large-patch14/model.safetensors",
+      "hash": "b05fe133b1209c6fbde0e2f8bdbb90716bfa15ccb2197b8dd8e514bb85d7bb5a",
+      "size": "1631.2986 MB"
+    },
+    {
+      "minio_file_path": "models/clip-openai-clip-vit-large-patch14/pytorch_model.bin",
+      "file_path": "../kcg-ml-model-cards/model-data/clip-openai-clip-vit-large-patch14/pytorch_model.bin",
+      "hash": "83125add074151da59a6710ea156da700f08bf176de17567f71ec4e4685f1abe",
+      "size": "1631.4236 MB"
+    },
+    {
+      "minio_file_path": "models/clip-openai-clip-vit-large-patch14/tokenizer_config.json",
+      "file_path": "../kcg-ml-model-cards/model-data/clip-openai-clip-vit-large-patch14/tokenizer_config.json",
+      "hash": "71fa2a4146417d2a1accc51d9d93b98397c9411d87b14c25ec054b42626dea0c",
+      "size": "0.0009 MB"
+    },
+    {
+      "minio_file_path": "models/clip-openai-clip-vit-large-patch14/merges.txt",
+      "file_path": "../kcg-ml-model-cards/model-data/clip-openai-clip-vit-large-patch14/merges.txt",
+      "hash": "f93f8756bdd2657b2235c871a30d54529018d120aad59328384805d4fb585236",
+      "size": "0.5003 MB"
+    },
+    {
+      "minio_file_path": "models/clip-openai-clip-vit-large-patch14/README.md",
+      "file_path": "../kcg-ml-model-cards/model-data/clip-openai-clip-vit-large-patch14/README.md",
+      "hash": "1297c0372558ccb7f35a222f61c9d18875012ecc4f1e543782894701ea9068e8",
+      "size": "0.0076 MB"
+    },
+    {
+      "minio_file_path": "models/clip-openai-clip-vit-large-patch14/tokenizer.json",
+      "file_path": "../kcg-ml-model-cards/model-data/clip-openai-clip-vit-large-patch14/tokenizer.json",
+      "hash": "8f8a6c439ef4348ed5554e34cdaee1730276cbe4436d25ee1ecdbe05db0e9e5f",
+      "size": "2.1210 MB"
+    },
+    {
+      "minio_file_path": "models/clip-openai-clip-vit-large-patch14/.gitattributes",
+      "file_path": "../kcg-ml-model-cards/model-data/clip-openai-clip-vit-large-patch14/.gitattributes",
+      "hash": "5852242b396077c164bbc52a946833528de0fc7b3550729239b6a9f5b101bdad",
+      "size": "0.0012 MB"
+    },
+    {
+      "minio_file_path": "models/clip-openai-clip-vit-large-patch14/preprocessor_config.json",
+      "file_path": "../kcg-ml-model-cards/model-data/clip-openai-clip-vit-large-patch14/preprocessor_config.json",
+      "hash": "2fce875f33818aadb92f0264dea2abf50d55b4a59107a10939209fd818e5e2f4",
+      "size": "0.0003 MB"
+    },
+    {
+      "minio_file_path": "models/clip-openai-clip-vit-large-patch14/special_tokens_map.json",
+      "file_path": "../kcg-ml-model-cards/model-data/clip-openai-clip-vit-large-patch14/special_tokens_map.json",
+      "hash": "c9a32bd10f113b18b5f9a00b838e1ee89dba84e14d858ec400034d729f11481b",
+      "size": "0.0004 MB"
+    },
+    {
+      "minio_file_path": "models/clip-openai-clip-vit-large-patch14/flax_model.msgpack",
+      "file_path": "../kcg-ml-model-cards/model-data/clip-openai-clip-vit-large-patch14/flax_model.msgpack",
+      "hash": "29e3452db5d9b772f85b860812885326db17344e1dbcacf53ff8846f64de25b8",
+      "size": "1631.2469 MB"
+    },
+    {
+      "minio_file_path": "models/clip-openai-clip-vit-large-patch14/tf_model.h5",
+      "file_path": "../kcg-ml-model-cards/model-data/clip-openai-clip-vit-large-patch14/tf_model.h5",
+      "hash": "ea81c4b6ddbe0dc5254686a987ee90487f08a7615dc23d466cac552508e25ecb",
+      "size": "1631.8456 MB"
+    },
+    {
+      "minio_file_path": "models/clip-openai-clip-vit-large-patch14/vocab.json",
+      "file_path": "../kcg-ml-model-cards/model-data/clip-openai-clip-vit-large-patch14/vocab.json",
+      "hash": "cb4a52fa64b632a4799e816c36b7c46f8659b9b58211bf9a35d7b52cdc8d364c",
+      "size": "0.9166 MB"
+    }
+  ]
+}
