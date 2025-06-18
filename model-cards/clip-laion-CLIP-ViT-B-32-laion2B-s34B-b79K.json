@@ -5,85 +5,85 @@
   "model_size": "2312.0753 MB",
   "model_file_list": [
     {
-      "minio_file_path": "models/clip-laion-CLIP-ViT-B-32-laion2B-s34B-b79K/config.json",
+      "minio_file_path": "models/CLIP-ViT-B-32-laion2B-s34B-b79K/config.json",
       "file_path": "../kcg-ml-model-cards/model-data/clip-laion-CLIP-ViT-B-32-laion2B-s34B-b79K/config.json",
       "hash": "423f013f0ecd69c9e47c2f21e0380719a19ca1adcedb6527a7d79e8744e50429",
       "size": "0.0042 MB"
     },
     {
-      "minio_file_path": "models/clip-laion-CLIP-ViT-B-32-laion2B-s34B-b79K/model.safetensors",
+      "minio_file_path": "models/CLIP-ViT-B-32-laion2B-s34B-b79K/model.safetensors",
       "file_path": "../kcg-ml-model-cards/model-data/clip-laion-CLIP-ViT-B-32-laion2B-s34B-b79K/model.safetensors",
       "hash": "4e921d1c24f0a2f3ef2c6fb5cd548cf77dbee8b9f22442983867eb32dad564ff",
       "size": "577.1235 MB"
     },
     {
-      "minio_file_path": "models/clip-laion-CLIP-ViT-B-32-laion2B-s34B-b79K/pytorch_model.bin",
+      "minio_file_path": "models/CLIP-ViT-B-32-laion2B-s34B-b79K/pytorch_model.bin",
       "file_path": "../kcg-ml-model-cards/model-data/clip-laion-CLIP-ViT-B-32-laion2B-s34B-b79K/pytorch_model.bin",
       "hash": "b688d36b0e9268cbc9b962b6bb518aefb4e18ccb0a81b51234dbe12c303b19b5",
       "size": "577.2010 MB"
     },
     {
-      "minio_file_path": "models/clip-laion-CLIP-ViT-B-32-laion2B-s34B-b79K/tokenizer_config.json",
+      "minio_file_path": "models/CLIP-ViT-B-32-laion2B-s34B-b79K/tokenizer_config.json",
       "file_path": "../kcg-ml-model-cards/model-data/clip-laion-CLIP-ViT-B-32-laion2B-s34B-b79K/tokenizer_config.json",
       "hash": "aa69cc5690faf882d23973cc5d3f46c855fb4fd10ffa5372f51f1aa1e830d383",
       "size": "0.0009 MB"
     },
     {
-      "minio_file_path": "models/clip-laion-CLIP-ViT-B-32-laion2B-s34B-b79K/merges.txt",
+      "minio_file_path": "models/CLIP-ViT-B-32-laion2B-s34B-b79K/merges.txt",
       "file_path": "../kcg-ml-model-cards/model-data/clip-laion-CLIP-ViT-B-32-laion2B-s34B-b79K/merges.txt",
       "hash": "2993312e7e9635d337dde903a919e0e6b992f80947be6376594be41898ce6970",
       "size": "0.5003 MB"
     },
     {
-      "minio_file_path": "models/clip-laion-CLIP-ViT-B-32-laion2B-s34B-b79K/README.md",
+      "minio_file_path": "models/CLIP-ViT-B-32-laion2B-s34B-b79K/README.md",
       "file_path": "../kcg-ml-model-cards/model-data/clip-laion-CLIP-ViT-B-32-laion2B-s34B-b79K/README.md",
       "hash": "d35dbb3c65800befc5062e50ef5ef2f687435dbb5a7b8f8d9652c208c6d923fa",
       "size": "0.0071 MB"
     },
     {
-      "minio_file_path": "models/clip-laion-CLIP-ViT-B-32-laion2B-s34B-b79K/tokenizer.json",
+      "minio_file_path": "models/CLIP-ViT-B-32-laion2B-s34B-b79K/tokenizer.json",
       "file_path": "../kcg-ml-model-cards/model-data/clip-laion-CLIP-ViT-B-32-laion2B-s34B-b79K/tokenizer.json",
       "hash": "a9bc4c18994782d6b7c5bc2817b903386fb49c152065344f975b991ff718b4eb",
       "size": "2.1210 MB"
     },
     {
-      "minio_file_path": "models/clip-laion-CLIP-ViT-B-32-laion2B-s34B-b79K/.gitattributes",
+      "minio_file_path": "models/CLIP-ViT-B-32-laion2B-s34B-b79K/.gitattributes",
       "file_path": "../kcg-ml-model-cards/model-data/clip-laion-CLIP-ViT-B-32-laion2B-s34B-b79K/.gitattributes",
       "hash": "e8aa9e716479f08fc39a008695e2220bcdc418781f797322122a214d6fc73da8",
       "size": "0.0015 MB"
     },
     {
-      "minio_file_path": "models/clip-laion-CLIP-ViT-B-32-laion2B-s34B-b79K/preprocessor_config.json",
+      "minio_file_path": "models/CLIP-ViT-B-32-laion2B-s34B-b79K/preprocessor_config.json",
       "file_path": "../kcg-ml-model-cards/model-data/clip-laion-CLIP-ViT-B-32-laion2B-s34B-b79K/preprocessor_config.json",
       "hash": "2fce875f33818aadb92f0264dea2abf50d55b4a59107a10939209fd818e5e2f4",
       "size": "0.0003 MB"
     },
     {
-      "minio_file_path": "models/clip-laion-CLIP-ViT-B-32-laion2B-s34B-b79K/special_tokens_map.json",
+      "minio_file_path": "models/CLIP-ViT-B-32-laion2B-s34B-b79K/special_tokens_map.json",
       "file_path": "../kcg-ml-model-cards/model-data/clip-laion-CLIP-ViT-B-32-laion2B-s34B-b79K/special_tokens_map.json",
       "hash": "c9a32bd10f113b18b5f9a00b838e1ee89dba84e14d858ec400034d729f11481b",
       "size": "0.0004 MB"
     },
     {
-      "minio_file_path": "models/clip-laion-CLIP-ViT-B-32-laion2B-s34B-b79K/open_clip_config.json",
+      "minio_file_path": "models/CLIP-ViT-B-32-laion2B-s34B-b79K/open_clip_config.json",
       "file_path": "../kcg-ml-model-cards/model-data/clip-laion-CLIP-ViT-B-32-laion2B-s34B-b79K/open_clip_config.json",
       "hash": "fcb8631ce04834efffccc1e3ed6c20d0743f6c56cd1db8e17bb686c2773d4a53",
       "size": "0.0006 MB"
     },
     {
-      "minio_file_path": "models/clip-laion-CLIP-ViT-B-32-laion2B-s34B-b79K/open_clip_model.safetensors",
+      "minio_file_path": "models/CLIP-ViT-B-32-laion2B-s34B-b79K/open_clip_model.safetensors",
       "file_path": "../kcg-ml-model-cards/model-data/clip-laion-CLIP-ViT-B-32-laion2B-s34B-b79K/open_clip_model.safetensors",
       "hash": "7b258650eeb4760939c49b82553e29a5863ca643ac6ca012a0569fd7747a751b",
       "size": "577.1096 MB"
     },
     {
-      "minio_file_path": "models/clip-laion-CLIP-ViT-B-32-laion2B-s34B-b79K/vocab.json",
+      "minio_file_path": "models/CLIP-ViT-B-32-laion2B-s34B-b79K/vocab.json",
       "file_path": "../kcg-ml-model-cards/model-data/clip-laion-CLIP-ViT-B-32-laion2B-s34B-b79K/vocab.json",
       "hash": "f2b24e4277207c029e3f5dcdb35d97558f41b1a13a332c44dc6f26c220fc590e",
       "size": "0.8224 MB"
     },
     {
-      "minio_file_path": "models/clip-laion-CLIP-ViT-B-32-laion2B-s34B-b79K/open_clip_pytorch_model.bin",
+      "minio_file_path": "models/CLIP-ViT-B-32-laion2B-s34B-b79K/open_clip_pytorch_model.bin",
       "file_path": "../kcg-ml-model-cards/model-data/clip-laion-CLIP-ViT-B-32-laion2B-s34B-b79K/open_clip_pytorch_model.bin",
       "hash": "b444e4ac5e90a48d3e93ac2fabd6514a6f8ef73b23151b5fca630016c7813b61",
       "size": "577.1826 MB"
