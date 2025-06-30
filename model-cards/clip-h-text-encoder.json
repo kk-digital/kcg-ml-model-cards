@@ -8,37 +8,43 @@
       "minio_file_path": "models/kandinsky/kandinsky-2-2-cache/kandinsky-2-2-prior/text_encoder/config.json",
       "file_path": "../kcg-ml-model-cards/model-data/clip-h-text-encoder/config.json",
       "hash": "3ecf4e009d53b71ade118b063fae7720f33383d65dca422a421415bc6488621c",
-      "size": "0.0007 MB"
+      "size": "0.0007 MB",
+      "required": true
     },
     {
       "minio_file_path": "models/kandinsky/kandinsky-2-2-cache/kandinsky-2-2-prior/text_encoder/model.safetensors",
       "file_path": "../kcg-ml-model-cards/model-data/clip-h-text-encoder/model.safetensors",
       "hash": "1bc0d6d7d17852e52255ca4580f38d4f2e58ac428ee1399f649c4f3708fb1507",
-      "size": "1325.0181 MB"
+      "size": "1325.0181 MB",
+      "required": true
     },
     {
       "minio_file_path": "models/kandinsky/kandinsky-2-2-cache/kandinsky-2-2-prior/tokenizer/merges.txt",
       "file_path": "../kcg-ml-model-cards/model-data/clip-h-text-encoder/tokenizer_config.json",
       "hash": "15a408c7e9801854bdfcfbfb0988b55eae6ae4d6c1a9f9ecbadb0e100db31591",
-      "size": "0.0007 MB"
+      "size": "0.0007 MB",
+      "required": true
     },
     {
       "minio_file_path": "models/kandinsky/kandinsky-2-2-cache/kandinsky-2-2-prior/tokenizer/special_tokens_map.json",
       "file_path": "../kcg-ml-model-cards/model-data/clip-h-text-encoder/merges.txt",
       "hash": "f93f8756bdd2657b2235c871a30d54529018d120aad59328384805d4fb585236",
-      "size": "0.5003 MB"
+      "size": "0.5003 MB",
+      "required": true
     },
     {
       "minio_file_path": "models/kandinsky/kandinsky-2-2-cache/kandinsky-2-2-prior/tokenizer/tokenizer_config.json",
       "file_path": "../kcg-ml-model-cards/model-data/clip-h-text-encoder/special_tokens_map.json",
       "hash": "7a78685b1575bced5b1ea33d53007eb9893bb4366f0cde4e521d373d841ba426",
-      "size": "0.0005 MB"
+      "size": "0.0005 MB",
+      "required": true
     },
     {
       "minio_file_path": "models/kandinsky/kandinsky-2-2-cache/kandinsky-2-2-prior/tokenizer/vocab.json",
       "file_path": "../kcg-ml-model-cards/model-data/clip-h-text-encoder/vocab.json",
       "hash": "affaad57eccca1827cc6ab166f1a358307f5da5732163800e0e8c99db5217ebd",
-      "size": "1.0109 MB"
+      "size": "1.0109 MB",
+      "required": true
     }
   ]
 }
