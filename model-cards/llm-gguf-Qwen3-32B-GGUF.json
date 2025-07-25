@@ -1,0 +1,72 @@
+{
+  "model_id": "6883-8A12-4BF3-D33B",
+  "model_name": "Qwen3-32B-GGUF",
+  "model_full_name": "Qwen/Qwen3-32B-GGUF",
+  "model_type": "llm-gguf",
+  "model_size": "121415.6336 MB",
+  "model_file_list": [
+    {
+      "minio_file_path": "models/llm-gguf-Qwen3-32B-GGUF/Qwen3-32B-Q8_0.gguf",
+      "file_path": "../kcg-ml-model-cards/model-data/llm-gguf-Qwen3-32B-GGUF/Qwen3-32B-Q8_0.gguf",
+      "hash": "35210efc21dded840e618d3987ca8a53d3cb89b530485c4d8fc239b389816e07",
+      "size": "33204.7643 MB",
+      "required": true
+    },
+    {
+      "minio_file_path": "models/llm-gguf-Qwen3-32B-GGUF/params",
+      "file_path": "../kcg-ml-model-cards/model-data/llm-gguf-Qwen3-32B-GGUF/params",
+      "hash": "44eeac5b907109f4031c8c011b03bb0976264b9343ac70a7de2083a755a4079f",
+      "size": "0.0003 MB",
+      "required": true
+    },
+    {
+      "minio_file_path": "models/llm-gguf-Qwen3-32B-GGUF/README.md",
+      "file_path": "../kcg-ml-model-cards/model-data/llm-gguf-Qwen3-32B-GGUF/README.md",
+      "hash": "44b1005084883cf49b2c94870bdf42ef02388960c0f3ae31533abbd42fe19aca",
+      "size": "0.0071 MB",
+      "required": true
+    },
+    {
+      "minio_file_path": "models/llm-gguf-Qwen3-32B-GGUF/Qwen3-32B-Q5_0.gguf",
+      "file_path": "../kcg-ml-model-cards/model-data/llm-gguf-Qwen3-32B-GGUF/Qwen3-32B-Q5_0.gguf",
+      "hash": "c3d61c54181e4d90392f1ebb8ec439f8199389ead6c08de2a7da98e52dbab145",
+      "size": "21586.8883 MB",
+      "required": true
+    },
+    {
+      "minio_file_path": "models/llm-gguf-Qwen3-32B-GGUF/Qwen3-32B-Q6_K.gguf",
+      "file_path": "../kcg-ml-model-cards/model-data/llm-gguf-Qwen3-32B-GGUF/Qwen3-32B-Q6_K.gguf",
+      "hash": "fc8cd107040c2c547dcbc16b872d0b04b75279b4327bb09d6b14129159ed4cd1",
+      "size": "25637.9186 MB",
+      "required": true
+    },
+    {
+      "minio_file_path": "models/llm-gguf-Qwen3-32B-GGUF/.gitattributes",
+      "file_path": "../kcg-ml-model-cards/model-data/llm-gguf-Qwen3-32B-GGUF/.gitattributes",
+      "hash": "6d5f9eefedc46216e3dbdfd473534a7594da5079ec661d6c9340d989a2d2a39b",
+      "size": "0.0017 MB",
+      "required": true
+    },
+    {
+      "minio_file_path": "models/llm-gguf-Qwen3-32B-GGUF/LICENSE",
+      "file_path": "../kcg-ml-model-cards/model-data/llm-gguf-Qwen3-32B-GGUF/LICENSE",
+      "hash": "ebfb353ae4f582cdd878cd0eace73bf5127127685aec1e9b988eac7433ed7d6e",
+      "size": "0.0110 MB",
+      "required": true
+    },
+    {
+      "minio_file_path": "models/llm-gguf-Qwen3-32B-GGUF/Qwen3-32B-Q5_K_M.gguf",
+      "file_path": "../kcg-ml-model-cards/model-data/llm-gguf-Qwen3-32B-GGUF/Qwen3-32B-Q5_K_M.gguf",
+      "hash": "04ae80220c018066702a014db3c58ac3531da7e4223b61d1a165a6653ea747e7",
+      "size": "22139.3883 MB",
+      "required": true
+    },
+    {
+      "minio_file_path": "models/llm-gguf-Qwen3-32B-GGUF/Qwen3-32B-Q4_K_M.gguf",
+      "file_path": "../kcg-ml-model-cards/model-data/llm-gguf-Qwen3-32B-GGUF/Qwen3-32B-Q4_K_M.gguf",
+      "hash": "4859c818c9d020768bbb0541ddfe07d7123ed0e730f8f91bb1d0d45dac317516",
+      "size": "18846.6540 MB",
+      "required": true
+    }
+  ]
+}
