@@ -1,6 +1,7 @@
 {
   "model_id": "6838-5657-3E5F-38EA",
   "model_name": "clip-h-text-encoder",
+  "model_full_name": "clip-h-text-encoder",
   "model_type": "clip-h",
   "model_size": "1326.5311 MB",
   "model_file_list": [

@@ -1,6 +1,7 @@
 {
   "model_id": "683D-97BB-590D-FB8B",
   "model_name": "CLIP-ViT-B-16-laion2B-s34B-b88K",
+  "model_full_name": "laion/CLIP-ViT-B-16-laion2B-s34B-b88K",
   "model_type": "clip-laion",
   "model_size": "1145.0471 MB",
   "model_file_list": [

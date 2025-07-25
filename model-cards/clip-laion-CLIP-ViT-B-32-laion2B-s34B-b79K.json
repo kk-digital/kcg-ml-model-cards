@@ -1,6 +1,7 @@
 {
   "model_id": "683D-899A-4F55-70DA",
   "model_name": "CLIP-ViT-B-32-laion2B-s34B-b79K",
+  "model_full_name": "laion/CLIP-ViT-B-32-laion2B-s34B-b79K",
   "model_type": "clip-laion",
   "model_size": "2312.0753 MB",
   "model_file_list": [

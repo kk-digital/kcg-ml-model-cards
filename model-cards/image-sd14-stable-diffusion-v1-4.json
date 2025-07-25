@@ -1,6 +1,7 @@
 {
   "model_id": "6853-8A57-3E8F-B7FF",
   "model_name": "stable-diffusion-v1-4",
+  "model_full_name": "CompVis/stable-diffusion-v1-4",
   "model_type": "image-sd14",
   "model_size": "44483,0723 MB",
   "model_file_list": [
