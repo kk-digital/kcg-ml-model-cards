@@ -1,0 +1,71 @@
+{
+  "model_id": "6885-051C-17D7-55C4",
+  "model_name": "siglip-so400m-patch14-384",
+  "model_type": "clip-sliglip",
+  "model_size": "3352.3142 MB",
+  "model_file_list": [
+    {
+      "minio_file_path": "models/clip-sliglip-siglip-so400m-patch14-384/.gitattributes",
+      "file_path": "../kcg-ml-model-cards/model-data/clip-sliglip-siglip-so400m-patch14-384/.gitattributes",
+      "hash": "241ed5a5c080cc66ac7831f98e469339e52d913377d22164ca053a96609e6083",
+      "size": "0.0014 MB",
+      "required": true
+    },
+    {
+      "minio_file_path": "models/clip-sliglip-siglip-so400m-patch14-384/config.json",
+      "file_path": "../kcg-ml-model-cards/model-data/clip-sliglip-siglip-so400m-patch14-384/config.json",
+      "hash": "c5f8a7db197c35fb901f07d623f641aa0f5e18212ab8fcce530b85e187cda1d9",
+      "size": "0.0005 MB",
+      "required": true
+    },
+    {
+      "minio_file_path": "models/clip-sliglip-siglip-so400m-patch14-384/model.safetensors",
+      "file_path": "../kcg-ml-model-cards/model-data/clip-sliglip-siglip-so400m-patch14-384/model.safetensors",
+      "hash": "e911b80fd0bfa0a2b7769335dc849fd16c7781e7bc3e0695bdcafe82e2a3eedd",
+      "size": "3349.2571 MB",
+      "required": true
+    },
+    {
+      "minio_file_path": "models/clip-sliglip-siglip-so400m-patch14-384/preprocessor_config.json",
+      "file_path": "../kcg-ml-model-cards/model-data/clip-sliglip-siglip-so400m-patch14-384/preprocessor_config.json",
+      "hash": "ad4bce52b9cc59bc4347e36972b3020ba88ed65fcaf07dcd5a7d69fb55857cda",
+      "size": "0.0004 MB",
+      "required": true
+    },
+    {
+      "minio_file_path": "models/clip-sliglip-siglip-so400m-patch14-384/README.md",
+      "file_path": "../kcg-ml-model-cards/model-data/clip-sliglip-siglip-so400m-patch14-384/README.md",
+      "hash": "033a5e45a37a609ac371df1770f84a0f13c6d250de4d654096e98927cdc9bc3e",
+      "size": "0.0041 MB",
+      "required": true
+    },
+    {
+      "minio_file_path": "models/clip-sliglip-siglip-so400m-patch14-384/special_tokens_map.json",
+      "file_path": "../kcg-ml-model-cards/model-data/clip-sliglip-siglip-so400m-patch14-384/special_tokens_map.json",
+      "hash": "e8aa123379e09849e4987ba71ba43e3258f7d1d7f84378296a835a1a1b23291b",
+      "size": "0.0004 MB",
+      "required": true
+    },
+    {
+      "minio_file_path": "models/clip-sliglip-siglip-so400m-patch14-384/spiece.model",
+      "file_path": "../kcg-ml-model-cards/model-data/clip-sliglip-siglip-so400m-patch14-384/spiece.model",
+      "hash": "bd2790c28cef3e9716bd21b0e1d8a11b52fa825b71edf00a9c1be453ecdf4057",
+      "size": "0.7613 MB",
+      "required": true
+    },
+    {
+      "minio_file_path": "models/clip-sliglip-siglip-so400m-patch14-384/tokenizer.json",
+      "file_path": "../kcg-ml-model-cards/model-data/clip-sliglip-siglip-so400m-patch14-384/tokenizer.json",
+      "hash": "2c2f9c88e4c722d74e7d09a1773035e470589218d9d45ade88399f6496e5834a",
+      "size": "2.2882 MB",
+      "required": true
+    },
+    {
+      "minio_file_path": "models/clip-sliglip-siglip-so400m-patch14-384/tokenizer_config.json",
+      "file_path": "../kcg-ml-model-cards/model-data/clip-sliglip-siglip-so400m-patch14-384/tokenizer_config.json",
+      "hash": "312980e96cb179a90a245422a38869dc2f369e788b0e8df40cc93365acb6a9c5",
+      "size": "0.0007 MB",
+      "required": true
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "model_id": "6885-3569-64A3-D787",
+  "model_name": "Unicom-ViT-B-16",
+  "model_type": "clip-unicom",
+  "model_size": "770.5684 MB",
+  "model_file_list": [
+    {
+      "minio_file_path": "models/clip-unicom-Unicom-ViT-B-16/.gitattributes",
+      "file_path": "../kcg-ml-model-cards/model-data/clip-unicom-Unicom-ViT-B-16/.gitattributes",
+      "hash": "241ed5a5c080cc66ac7831f98e469339e52d913377d22164ca053a96609e6083",
+      "size": "0.0014 MB",
+      "required": true
+    },
+    {
+      "minio_file_path": "models/clip-unicom-Unicom-ViT-B-16/model.onnx",
+      "file_path": "../kcg-ml-model-cards/model-data/clip-unicom-Unicom-ViT-B-16/model.onnx",
+      "hash": "2f794afb4e302c0fd8fbb6337a9d0fa8e74876a882de394876a62c3c0148a0f9",
+      "size": "770.5655 MB",
+      "required": true
+    },
+    {
+      "minio_file_path": "models/clip-unicom-Unicom-ViT-B-16/preprocessor_config.json",
+      "file_path": "../kcg-ml-model-cards/model-data/clip-unicom-Unicom-ViT-B-16/preprocessor_config.json",
+      "hash": "f5d492e2be864a995f14b97d93b125524967abc0c6996d3f02820eaa4f8d24d2",
+      "size": "0.0007 MB",
+      "required": true
+    },
+    {
+      "minio_file_path": "models/clip-unicom-Unicom-ViT-B-16/README.md",
+      "file_path": "../kcg-ml-model-cards/model-data/clip-unicom-Unicom-ViT-B-16/README.md",
+      "hash": "8ce8f76a7deac94bde26ddaf3cddaf012eabaa88c988044209489ed3374f11bc",
+      "size": "0.0008 MB",
+      "required": true
+    }
+  ]
+}
