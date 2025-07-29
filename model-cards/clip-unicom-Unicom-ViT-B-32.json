@@ -1,6 +1,7 @@
 {
-  "model_id": "6885-3527-1E61-B02E",
+  "model_id": "6888-AE34-1909-E84E",
   "model_name": "Unicom-ViT-B-32",
+  "model_full_name": "Unicom-ViT-B-32",
   "model_type": "clip-unicom",
   "model_size": "445.3838 MB",
   "model_file_list": [

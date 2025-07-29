@@ -1,6 +1,7 @@
 {
-  "model_id": "6885-05BA-588A-C2C3",
+  "model_id": "6888-ADCD-1F62-FB54",
   "model_name": "siglip-base-patch16-224",
+  "model_full_name": "siglip-base-patch16-224",
   "model_type": "clip-sliglip",
   "model_size": "1553.1927 MB",
   "model_file_list": [
