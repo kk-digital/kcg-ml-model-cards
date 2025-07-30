@@ -1,6 +1,7 @@
 {
   "model_id": "683D-A1C8-672A-A98B",
   "model_name": "CLIP-ViT-B-32-DataComp.XL-s13B-b90K",
+  "model_full_name": "laion/CLIP-ViT-B-32-DataComp.XL-s13B-b90K",
   "model_type": "clip-laion",
   "model_size": "1157.7513 MB",
   "model_file_list": [

@@ -1,6 +1,7 @@
 {
   "model_id": "683D-EC21-7E04-DAED",
   "model_name": "clip-vit-large-patch14",
+  "model_full_name": "openai/clip-vit-large-patch14",
   "model_type": "clip-openai",
   "model_size": "6529.3672 MB",
   "model_file_list": [
