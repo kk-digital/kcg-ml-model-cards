@@ -1,7 +1,7 @@
 {
   "model_id": "6853-8C11-5E8C-547B",
   "model_name": "Illustrious-XL-v2.0",
-  "model_full_name": "stabilityai/stable-diffusion-xl-base-1.0",
+  "model_full_name": "Illustrious-XL-v2.0",
   "model_type": "image-sdxl",
   "model_size": "128371,8291 MB",
   "model_file_list": [
