@@ -1,0 +1,37 @@
+{
+  "model_id": "6888-AE34-1909-E84E",
+  "model_name": "Unicom-ViT-B-32",
+  "model_full_name": "Qdrant/Unicom-ViT-B-32",
+  "model_type": "clip-unicom",
+  "model_size": "445.3838 MB",
+  "model_file_list": [
+    {
+      "minio_file_path": "models/clip-unicom-Unicom-ViT-B-32/.gitattributes",
+      "file_path": "../kcg-ml-model-cards/model-data/clip-unicom-Unicom-ViT-B-32/.gitattributes",
+      "hash": "241ed5a5c080cc66ac7831f98e469339e52d913377d22164ca053a96609e6083",
+      "size": "0.0014 MB",
+      "required": true
+    },
+    {
+      "minio_file_path": "models/clip-unicom-Unicom-ViT-B-32/model.onnx",
+      "file_path": "../kcg-ml-model-cards/model-data/clip-unicom-Unicom-ViT-B-32/model.onnx",
+      "hash": "626a9e06077aa11a1600be179b384f97c5c7ad68ebedd6a5123a287fc7d1f626",
+      "size": "445.3809 MB",
+      "required": true
+    },
+    {
+      "minio_file_path": "models/clip-unicom-Unicom-ViT-B-32/preprocessor_config.json",
+      "file_path": "../kcg-ml-model-cards/model-data/clip-unicom-Unicom-ViT-B-32/preprocessor_config.json",
+      "hash": "1e9f1d30798495cdffb9804b948a4f42af4153549e082bf1d4b0b674c0699dd1",
+      "size": "0.0007 MB",
+      "required": true
+    },
+    {
+      "minio_file_path": "models/clip-unicom-Unicom-ViT-B-32/README.md",
+      "file_path": "../kcg-ml-model-cards/model-data/clip-unicom-Unicom-ViT-B-32/README.md",
+      "hash": "616fd990eec71a58241e0232009665d10972b2fa85ceac3b72b9172cfcb33aaa",
+      "size": "0.0008 MB",
+      "required": true
+    }
+  ]
+}
