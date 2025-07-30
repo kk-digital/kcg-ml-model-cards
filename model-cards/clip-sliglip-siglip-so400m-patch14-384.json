@@ -1,7 +1,7 @@
 {
   "model_id": "6888-AD5B-7F48-6032",
   "model_name": "siglip-so400m-patch14-384",
-  "model_full_name": "siglip-so400m-patch14-384",
+  "model_full_name": "google/siglip-so400m-patch14-384",
   "model_type": "clip-sliglip",
   "model_size": "3352.3142 MB",
   "model_file_list": [
